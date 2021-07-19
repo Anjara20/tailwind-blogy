@@ -1,0 +1,25 @@
+{
+  "name": "tailwind-blogy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "postcss css/build/main.css -o css/prod/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anjara20/tailwind-blogy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anjara20/tailwind-blogy/issues"
+  },
+  "homepage": "https://github.com/Anjara20/tailwind-blogy#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.2.4"
+  }
+}
