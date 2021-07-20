@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        "cw-grey-050":"F0F4B",
+        "cw-grey-050":"#F0F4B",
         "cw-grey-100":"#D9E2EC",
         "cw-grey-700":"#334E68",
         "cw-grey-800":"#234B53",
